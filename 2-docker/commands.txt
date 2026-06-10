@@ -1,5 +1,5 @@
-# Starter app og MySQL i baggrunden.
-docker compose up -d
+# Bygger image og starter app og MySQL i baggrunden.
+docker compose up -d --build
 
 # Stopper og fjerner containere fra compose-projektet.
 docker compose down

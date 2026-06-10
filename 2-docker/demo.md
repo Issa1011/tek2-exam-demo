@@ -6,7 +6,7 @@
 
 2. Start app og database:
 
-   `docker compose up -d`
+   `docker compose up -d --build`
 
    Hvis port 8080 allerede er i brug, skal det andet program stoppes først.
 
