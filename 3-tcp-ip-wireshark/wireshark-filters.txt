@@ -1,0 +1,8 @@
+tcp
+udp
+dns
+http
+ip.addr == DIN_IP
+tcp.port == 80
+tcp.flags.syn == 1
+

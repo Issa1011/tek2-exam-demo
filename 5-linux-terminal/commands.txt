@@ -1,0 +1,17 @@
+pwd
+ls
+cd playground
+mkdir testmappe
+touch testfil.txt
+nano testfil.txt
+cat eksempel.txt
+less eksempel.txt
+head eksempel.txt
+tail eksempel.txt
+grep Terminalen eksempel.txt
+chmod 644 testfil.txt
+echo "Hej"
+echo "Hej" > output.txt
+echo "Mere tekst" >> output.txt
+cat eksempel.txt | grep fil
+

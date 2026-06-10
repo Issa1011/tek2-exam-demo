@@ -1,0 +1,5 @@
+nslookup ek.dk
+dig ek.dk
+curl -I https://ek.dk
+curl -v http://neverssl.com
+

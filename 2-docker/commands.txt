@@ -1,0 +1,20 @@
+# Starter app og MySQL i baggrunden.
+docker compose up -d
+
+# Stopper og fjerner containere fra compose-projektet.
+docker compose down
+
+# Viser kørende containere.
+docker ps
+
+# Viser Docker images på computeren.
+docker images
+
+# Viser logs fra app-containeren.
+docker logs 2-docker-app-1
+
+# Åbner en terminal inde i MySQL-containeren.
+docker exec -it 2-docker-mysql-1 bash
+
+# Rydder ubrugte Docker-ressourcer.
+docker system prune

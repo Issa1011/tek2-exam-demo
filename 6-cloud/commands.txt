@@ -1,0 +1,7 @@
+ssh root@SERVER_IP
+scp fil.txt root@SERVER_IP:/root/
+ufw status
+ufw allow 80
+ufw allow 443
+docker compose up -d
+

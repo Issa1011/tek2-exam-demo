@@ -1,0 +1,8 @@
+# Der er ingen vigtige lokale kommandoer til denne demo.
+# Demoen foregår primært i GitHub Actions.
+
+git status
+git add .
+git commit -m "Add Tek2 exam demo"
+git push
+

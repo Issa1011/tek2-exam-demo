@@ -1,0 +1,6 @@
+ifconfig
+curl ifconfig.me
+ping ek.dk
+nslookup ek.dk
+curl http://neverssl.com
+

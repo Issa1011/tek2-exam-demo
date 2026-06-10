@@ -1,0 +1,7 @@
+Dette er en simpel tekstfil.
+Den har flere linjer.
+Terminalen kan vise filen med cat.
+Man kan søge i filen med grep.
+Man kan vise starten med head.
+Man kan vise slutningen med tail.
+
